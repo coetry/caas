@@ -1,0 +1,15 @@
+{
+  "name": "caas",
+  "version": "1.0.0",
+  "description": "typescript compiler as a service",
+  "main": "index.js",
+  "author": "Allen Hai <allenhai03@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "micro": "^9.3.3",
+    "micro-cors": "^0.1.1",
+    "typescript": "^3.2.4"
+  }
+}
